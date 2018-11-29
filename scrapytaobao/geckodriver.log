@@ -1,0 +1,196 @@
+1541129871203	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.6H49ZxvySthk"
+*** You are running in headless mode.
+1541129900990	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.gUvqkLVkE4i0"
+*** You are running in headless mode.
+1541129902558	Marionette	INFO	Listening on port 50124
+1541129902608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://ss1.bdstatic.com/5eN1bjq8AAUYm2zgoY3K/r/www/cache/static/protocol/https/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1541129903608	Marionette	INFO	Stopped listening on port 50124
+[Parent 15488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 35[Parent 15488, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 1601541170683520	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.IqKkqXmatgNY"
+*** You are running in headless mode.
+1541170685302	Marionette	INFO	Listening on port 65382
+1541170685644	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+[Parent 16000, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541171151264	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.2ambbHxjakah"
+*** You are running in headless mode.
+1541171152909	Marionette	INFO	Listening on port 49199
+1541171153388	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 2588, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541171325975	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.OhEMDaKHWAtc"
+*** You are running in headless mode.
+1541171327645	Marionette	INFO	Listening on port 49355
+1541171328090	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 17484, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541171384585	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.maXk0zFIdOaf"
+*** You are running in headless mode.
+1541171386526	Marionette	INFO	Listening on port 49474
+1541171386708	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 1336, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541171460754	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.ermSLIsgYVLf"
+*** You are running in headless mode.
+1541171462407	Marionette	INFO	Listening on port 49583
+1541171462866	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 20460, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541171654899	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.2F5seofqfGTu"
+*** You are running in headless mode.
+1541171656549	Marionette	INFO	Listening on port 49706
+1541171657019	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.uJz0kWFYv6yE"
+*** You are running in headless mode.
+1541171814168	Marionette	INFO	Listening on port 49832
+1541171814545	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 19800, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541173463870	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.1Kxwr42QAtDk"
+*** You are running in headless mode.
+1541173465531	Marionette	INFO	Listening on port 50873
+1541173465983	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 20080, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541173499456	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.UgR057oCVhZj"
+*** You are running in headless mode.
+1541173501096	Marionette	INFO	Listening on port 50967
+1541173501568	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 23232, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541174562696	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.DIt543tIPAWo"
+*** You are running in headless mode.
+1541174564327	Marionette	INFO	Listening on port 51383
+1541174564809	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[GFX1-]: Receive IPC close with reason=AbnormalShutdown
+\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.CZNwIkbFYmRk"
+*** You are running in headless mode.
+1541174621569	Marionette	INFO	Listening on port 51484
+1541174621636	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+1541269705947	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.NwEs5jp2n9vq"
+*** You are running in headless mode.
+1541269710347	Marionette	INFO	Listening on port 49938
+1541269710418	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 634: TypeError: docShell.failedChannel is null
+1541269975613	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.ux30KyHU0hyk"
+*** You are running in headless mode.
+1541269979251	Marionette	INFO	Listening on port 50032
+1541269979449	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 634: TypeError: docShell.failedChannel is null
+1541270033189	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.9omET22SHPVi"
+*** You are running in headless mode.
+1541270037073	Marionette	INFO	Listening on port 50089
+1541270037524	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 634: TypeError: docShell.failedChannel is null
+1541270233467	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.ykKXCTLpjZsr"
+*** You are running in headless mode.
+1541270237163	Marionette	INFO	Listening on port 50196
+1541270237313	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 634: TypeError: docShell.failedChannel is null
+1541270315898	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.CVXXHeLQuu9M"
+*** You are running in headless mode.
+1541270320322	Marionette	INFO	Listening on port 50262
+1541270320823	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 634: TypeError: docShell.failedChannel is null
+1541270425998	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.a0phWavsXymb"
+*** You are running in headless mode.
+1541270429930	Marionette	INFO	Listening on port 50332
+1541270430353	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource:///actors/NetErrorChild.jsm, line 634: TypeError: docShell.failedChannel is null
+1541270506016	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.bE7mm9ht0xwC"
+*** You are running in headless mode.
+1541270509845	Marionette	INFO	Listening on port 50388
+1541270510342	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 6516, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541270847529	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.MhDAdvswryeE"
+*** You are running in headless mode.
+1541270851632	Marionette	INFO	Listening on port 50553
+1541270851917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 17628, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541271029100	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.Jb4R70erEJV1"
+*** You are running in headless mode.
+1541271032771	Marionette	INFO	Listening on port 50691
+1541271032941	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 16820, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541271199836	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.eITCi4VR9c4T"
+*** You are running in headless mode.
+1541271203493	Marionette	INFO	Listening on port 50863
+1541271203687	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 30128, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1541271317925	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.YhzpheEo8aH3"
+*** You are running in headless mode.
+1541271321615	Marionette	INFO	Listening on port 51000
+1541271321771	Marionette	WARN	TLS certificate errors will be ignored for this session
+1541271322283	Marionette	ERROR	[6442450945] No reply from Marionette:Register
+JavaScript error: chrome://marionette/content/listener.js, line 456: TypeError: reply[0] is undefined
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+1541271680467	mozrunner::runner	INFO	Running command: "D:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "user-agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0\"" "charset=\"utf-8\"" "-foreground" "-no-remote" "-profile" "C:\\Users\\NAODAO~1\\AppData\\Local\\Temp\\rust_mozprofile.foydxXVNeYGg"
+*** You are running in headless mode.
+1541271684078	Marionette	INFO	Listening on port 51204
+1541271684307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://g.alicdn.com/secdev/sufei_data/3.6.8/index.js, line 1: Error: WebGL warning: <SetDimensions>: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: https://login.taobao.com/jump?target=https://www.tmall.com, line 27: SyntaxError: expected expression, got '<'
+[Parent 31368, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
