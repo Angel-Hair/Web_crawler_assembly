@@ -98,7 +98,7 @@ class LagouwangpaquDownloaderMiddleware(object):
         #   installed downloader middleware will be called
         print("request.url: "+request.url)
         self.driver.get(request.url)
-        time.sleep(0.5)
+        time.sleep(0.75)
         #判断加载的页面是简介还是招聘页面
         # try:
         #     self.wait.until(

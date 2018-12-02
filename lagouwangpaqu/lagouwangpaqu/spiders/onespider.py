@@ -10,7 +10,7 @@ class OneSpider(Spider):
         'Accept-Encoding': 'gzip, deflate, br',
         'Accept-Language': 'zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2',
         'Connection': 'keep-alive',
-        'Cookie': 'Hm_lvt_4233e74dff0ae5bd0a3d81c6ccf756e6=1542799363,1543212087,1543212092,1543222336; _ga=GA1.2.715514848.1542624091; user_trace_token=20181119184131-ad3cd58c-ebe7-11e8-8958-5254005c3644; LGUID=20181119184131-ad3cda0c-ebe7-11e8-8958-5254005c3644; index_location_city=%E5%85%A8%E5%9B%BD; JSESSIONID=ABAAABAABEEAAJA6DE1D0D1B4944C1818CCD9215DC232EA; LGRID=20181128164522-f158c0f8-f2e9-11e8-8320-525400f775ce; Hm_lpvt_4233e74dff0ae5bd0a3d81c6ccf756e6=1543394723; TG-TRACK-CODE=index_logoad; ab_test_random_num=0; sensorsdata2015jssdkcross=%7B%22distinct_id%22%3A%221674f3a2f4c1b9-00cf6ae5ca4cb48-4c312979-2073600-1674f3a2f4d2c7%22%2C%22%24device_id%22%3A%221674f3a2f4c1b9-00cf6ae5ca4cb48-4c312979-2073600-1674f3a2f4d2c7%22%7D; _putrc=A2105827E4B1F3BA123F89F2B170EADC; login=true; unick=%E6%8B%89%E5%8B%BE%E7%94%A8%E6%88%B77504; hasDeliver=0; gate_login_token=8e9e987bd135e9d56595b0dd66be410f5baac961addce26626dc165cce3ab8cc; _gat=1; LGSID=20181128164517-ee7aa5d5-f2e9-11e8-8320-525400f775ce; PRE_UTM=; PRE_HOST=; PRE_SITE=https%3A%2F%2Fwww.lagou.com%2Fgongsi%2F358327.html; PRE_LAND=https%3A%2F%2Fwww.lagou.com%2F; showExpriedIndex=1; showExpriedCompanyHome=1; showExpriedMyPublish=1',
+        'Cookie': 'your_cookie',
         'DNT': '1',
         'Host': 'www.lagou.com',
         'Upgrade-Insecure-Requests': '1',

@@ -16,7 +16,7 @@ tools：Scarpy
 
 tools: Scarpy、Selenium、Geckodriver、FireFox-headless
 
-这个例子用的是拉勾网所有企业的爬取，注意修改'headers'和设置'start'和'max_list'，分别对应最低存在企业页面数（2018.11.30测试结果为7页开始有企业）和最高企业数（首页有公布数据），爬取二级信息（招聘）的代码被我注释掉了（包括Downloader Middleware），有需要的可以解开使用。
+这个例子用的是拉勾网所有企业的爬取，**注意修改'headers'和设置'start'和'max_list'**，分别对应最低存在企业页面数（2018.11.30测试结果为7页开始有企业）和最高企业数（首页有公布数据），爬取二级信息（招聘）的代码被我注释掉了（包括Downloader Middleware），有需要的可以解开使用。
 
 值得一提的是拉勾网默认企业名录只显示20页，很明显，没有显示全部，所以这里是直接穷举了所有企业的链接。
 
@@ -31,6 +31,14 @@ tools: Scarpy、Selenium、Geckodriver、FireFox-headless
 **另外提醒下，在爬取淘宝这种复杂多级多动态网页时，Selenium和Scarpy往往不是最佳的选择，因为实现起来非常缓慢和复杂，反而直接调用requests要快速方便些，许多请求url可以直接合并得到，唯一麻烦的就是数据处理。**
 
 实现细节： 和上一个差不多，一样是Scrapy对接Selenium，不同的是格外实现了元素加载等待和元素点击事件。
+
+## 关于远程部署到Linux上的建议
+
+远程ssh在linux上用Scrapy对接Selenium的爬虫的时候，就算用nohup &命令在后台挂起，当你关掉ssh连接的时候，还是会关掉附属进程，然后Scrapy会直接pass掉剩下的所有页面。  
+解决方案是不要用ssh，用VNC或者其他远程桌面协议连接，然后在桌面上开终端运行命令（都不用挂后台了...而且测试headers和cookie的时候用图像界面的浏览器方便些...）
+
+测试服务器： Debian 9
+测试工具： Xshell 、VNC Viewer
 
 ## 参考
 
