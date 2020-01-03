@@ -176,11 +176,7 @@ class GETHREFHTMLParser(HTMLParser): #处理<a>标签内链接
 
 import time
 import json
-from selenium import webdriver
-from selenium.webdriver.common.by import By
-from selenium.webdriver.common.action_chains import ActionChains
-from selenium.webdriver.support import expected_conditions
-from selenium.webdriver.common.keys import Keys
+
 
 if __name__ == "__main__":
     app = QtWidgets.QApplication(sys.argv)
